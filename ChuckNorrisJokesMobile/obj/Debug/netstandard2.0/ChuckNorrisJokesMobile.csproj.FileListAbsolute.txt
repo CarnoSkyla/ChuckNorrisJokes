@@ -1,0 +1,15 @@
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\bin\Debug\netstandard2.0\ChuckNorrisJokesMobile.deps.json
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\bin\Debug\netstandard2.0\ChuckNorrisJokesMobile.dll
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\bin\Debug\netstandard2.0\ChuckNorrisJokesMobile.pdb
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\ChuckNorrisJokesMobile.csprojAssemblyReference.cache
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\ChuckNorrisJokesMobile.AssemblyInfoInputs.cache
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\ChuckNorrisJokesMobile.AssemblyInfo.cs
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\ChuckNorrisJokesMobile.dll
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\ChuckNorrisJokesMobile.pdb
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\ChuckNorrisJokesMobile.csproj.CopyComplete
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesMobile\obj\Debug\netstandard2.0\Categories.xaml.g.cs

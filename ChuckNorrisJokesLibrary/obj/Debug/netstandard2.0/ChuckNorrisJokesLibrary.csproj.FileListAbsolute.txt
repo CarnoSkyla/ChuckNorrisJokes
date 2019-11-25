@@ -1,0 +1,16 @@
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\uwc\ChuckNorrisJokes\ChuckNorrisSln\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.deps.json
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.dll
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.pdb
+C:\Xamarin\ChuckNorrisJokesMobile\ChuckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChuckNorrisJokesLibrary.csprojAssemblyReference.cache

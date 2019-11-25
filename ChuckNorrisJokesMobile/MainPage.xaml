@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ChuckNorrisJokesMobile.MainPage"
+             >
+
+    <StackLayout BackgroundColor="Black">
+        <!-- Place new controls here -->
+        <Label x:Name="Heading" Text="Chuck Norris Jokes!" 
+           FontSize="Large"
+           TextColor="White"
+           HorizontalOptions="CenterAndExpand"
+           VerticalOptions="CenterAndExpand" />
+        
+        
+        
+        
+        <Label x:Name="JokeLabel" HeightRequest="200" VerticalTextAlignment="Center" 
+               TextColor="Black"
+               FontSize="Medium"
+               BackgroundColor="AliceBlue"
+               />
+
+        <Button x:Name="GenerateJoke" Text="Generate Joke"
+           HorizontalOptions="CenterAndExpand"
+           VerticalOptions="Center" Clicked="Button_Clicked"
+           CornerRadius="20"
+           BackgroundColor="Aqua"
+           BorderColor="Blue"
+           BorderWidth="2"
+           WidthRequest="500"
+           HeightRequest="50"
+            />
+
+        <Button x:Name="CategoriesBtn" Text="Categories"
+           HorizontalOptions="CenterAndExpand"
+           VerticalOptions="CenterAndExpand"
+           CornerRadius="20"
+           BackgroundColor="Cyan"
+           BorderColor="Blue"
+           BorderWidth="2"
+           WidthRequest="500"
+           HeightRequest="50"
+                Clicked="CategoriesBtn_Clicked"
+            />
+
+
+    </StackLayout>
+
+</ContentPage>
